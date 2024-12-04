@@ -26,5 +26,5 @@
     "postcss": "^8.2.15",
     "tailwindcss": "^2.0.4"
   },
-  "packageManager": "yarn@3.6.4"
+  "packageManager": "yarn@3.8.7"
 }
